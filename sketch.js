@@ -45,7 +45,7 @@ function draw(){
 
     // Paint the Current cell to green
     noStroke();
-    fill(0,255,0);    
+    fill(0,0,255);    
     rect(current.x, current.y, scl, scl);
 }
 
